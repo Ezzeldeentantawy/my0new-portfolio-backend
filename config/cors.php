@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ["https://ezzeldeen's_portfolio.vercel.app"],
+    'allowed_origins' => ["https://ezzeldeenportfolio.vercel.app/"],
 
     'allowed_origins_patterns' => [],
 
